@@ -15,7 +15,7 @@ const AppHeader = () => {
 }
 
 const SearchPanel = () => {
-  return <input placeholder = 'search' />
+  return <input placeholder = 'search1' />
 }
 
 const App = () => {
